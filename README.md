@@ -14,13 +14,9 @@
 
 <br><br><br>
 
-## 🌐 Development settings
+<!-- ## 🌐 Development settings -->
 
-```
-
-```
-
-<br><br><br>
+<br>
 
 ## ⚡Notion 정리
 
