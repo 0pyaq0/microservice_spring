@@ -1,4 +1,4 @@
-# ✏️🍃 Microservice Architecture (MSA)
+# ✏️ Microservice Architecture (MSA)
 <br/>
 
       Spring Boot를 사용하여 msa 개념 정리 및 토이 프로젝트 레포지토리입니다.
