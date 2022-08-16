@@ -9,9 +9,10 @@
 |:---:|:---:|:---:|
 |1|Intro|https://leejinsim0530.notion.site/1-1-Intro-d70e56e5c31d4163a92bc03e40923ede|
 
+<br/><br/><br/>
 ## 🛠️ Tech
 
-<br/><br/><br/>
+<br/>
 
 - Sptring Boot
 - IntelliJ IDEA 2021.3.2
