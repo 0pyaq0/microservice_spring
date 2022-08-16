@@ -5,6 +5,10 @@
 
 <br>
 
+|주차|Chapter|노션 링크|
+|:---:|:---:|:---:|
+|1|Intro|https://leejinsim0530.notion.site/1-1-Intro-d70e56e5c31d4163a92bc03e40923ede|
+
 ## 🛠️ Tech
 
 <br/>
